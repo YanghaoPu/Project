@@ -1,4 +1,4 @@
-# Group 10 project
+# AISE 4010 Group 10 project
 # Deep Learning for Time Series Forecasting of Electric Load.
 
 This project applies deep learning (DL) models to a real-world time series dataset of Zone-1 electric load across multiple Moroccan cities.
